@@ -1,2 +1,1 @@
-TEMP_BACKUP_ENDPOINT:
-2f 77 61 74 63 68 3f 76 3d 38 47 71 61 4e 56 54 52 7a 36 6f
+Too late. The endpoint was wiped from this file.
